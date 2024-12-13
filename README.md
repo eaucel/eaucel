@@ -29,20 +29,14 @@ Welcome to my GitHub! I'm an aspiring Software Developer passionate about making
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📚 Seminars & Certifications
-- **UX/UI Design** – Webinar on Figma Prototyping (2023)
-- **Data Analytics Basics** – Digital Academy (2022)
-- **Web Development Trends** – RICTCon/CCS Symposium (2024)
-
-## 📈 Current Focus
-- Building a portfolio of interactive web applications.
-- Contributing to open-source projects to collaborate with developers worldwide.
-- Expanding skills in other programming languages
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F0C90F?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ## 🌐 Let's Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/eaucel.03/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-eaucel-guan-4650b0252/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eau_mry)
+
+
+
 

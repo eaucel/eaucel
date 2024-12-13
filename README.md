@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mary Eaucel Guan
 Welcome to my GitHub! I'm an aspiring Software Developer passionate about making some functional and visually appealing websites while advancing my technical skills.
 
-🎓 Currently studying **Information Technology** at URS Binangonan  
-💼 Active in school organizations as **Project Manager** and **Public Information Officer (PIO)**  
+🎓 Currently studying **Information Technology** at URS Binangonan.
+💼 Active in school organizations.
 🌱 Continuously learning new web development trends and tools to enhance my skills.
 
 ## 💻 GitHub Stats
